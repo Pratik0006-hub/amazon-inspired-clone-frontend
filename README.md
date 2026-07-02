@@ -64,9 +64,9 @@ This project was built to practice:
 
 ## 👨‍💻 Author
 
-Your Name
+Pratik Gabhale
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Pratik0006
 
 ---
 

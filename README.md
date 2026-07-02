@@ -66,7 +66,7 @@ This project was built to practice:
 
 Pratik Gabhale
 
-GitHub: https://github.com/Pratik0006
+GitHub: https://github.com/Pratik0006-hub
 
 ---
 

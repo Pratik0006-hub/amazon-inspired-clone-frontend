@@ -28,7 +28,7 @@ A responsive clone of the Amazon homepage built using **HTML5** and **CSS3**. Th
 Amazon-Clone/
 │── index.html
 │── style.css
-│── screenshot.png
+│── Home.jpeg
 └── README.md
 ```
 

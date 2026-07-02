@@ -1,4 +1,4 @@
-# amazon-Homepage-inspired-clone-frontend
+# amazon-inspired-clone-frontend
 
 A responsive clone of the Amazon homepage built using **HTML5** and **CSS3**. This project recreates the front page layout of Amazon for frontend practice and to improve CSS layout skills.
 
@@ -25,10 +25,13 @@ A responsive clone of the Amazon homepage built using **HTML5** and **CSS3**. Th
 ## 📂 Project Structure
 
 ```
-Amazon-Clone/
+Amazon-inspired-Clone-frontend/
 │── index.html
 │── style.css
 │── screenshot.png
+│── amazon.png
+│── amazon-home.jpeg
+│── Box1 TO Box8
 └── README.md
 ```
 
@@ -37,12 +40,12 @@ Amazon-Clone/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/amazon-clone.git
+git clone https://github.com/Pratik0006-hub/amazon-inspired-clone-frontend.git
 ```
 
 2. Open the project folder.
 
-3. Open `index.html` in your browser.
+3. Open `index1.html` in your browser.
 
 ## 🎯 Purpose
 
@@ -64,9 +67,9 @@ This project was built to practice:
 
 ## 👨‍💻 Author
 
-Your Name
+Pratik Gabhale
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Pratik0006-hub
 
 ---
 

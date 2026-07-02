@@ -28,14 +28,11 @@ A responsive clone of the Amazon homepage built using **HTML5** and **CSS3**. Th
 Amazon-inspired-Clone-frontend/
 │── index.html
 │── style.css
-<<<<<<< HEAD
 │── screenshot.png
 │── amazon.png
 │── amazon-home.jpeg
 │── Box1 TO Box8
-=======
 │── Home.jpeg
->>>>>>> 5ee516590c24d4889df519809edb374b21be40fb
 └── README.md
 ```
 

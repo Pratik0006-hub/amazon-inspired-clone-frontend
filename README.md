@@ -4,8 +4,6 @@ A responsive clone of the Amazon homepage built using **HTML5** and **CSS3**. Th
 
 ## 📸 Preview
 
-> Add a screenshot of the project here.
-
 ![Amazon Clone Screenshot](Home.jpeg)
 
 ## 🚀 Features
